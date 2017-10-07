@@ -10,3 +10,6 @@ $ ls
 *Execute the binary directly.*
 $ ./hello-world
 > hello world
+
+*Get new packages (equivalent to gem install in ruby)*
+> go get github.com/gorilla/mux
